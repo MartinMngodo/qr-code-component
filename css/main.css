@@ -68,7 +68,7 @@ body {
 }
 
 .qr-code .qr-code-contents .qr-code-card .qr-code-image {
-  height: 280px;
+  height: 260px;
   position: relative;
   cursor: pointer;
 }
