@@ -14,20 +14,20 @@ body {
   font-size: 15px;
 }
 
-.attribution {
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+}
+
+footer .attribution {
   font-size: 11px;
   text-align: center;
 }
 
-.attribution a {
+footer .attribution a {
   color: #3e52a3;
-}
-
-.footer {
-  position: absolute;
-  bottom: 10;
-  left: 0;
-  width: 100%;
 }
 
 .section {
